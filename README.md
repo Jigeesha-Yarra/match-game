@@ -14,7 +14,6 @@ Play it now: (https://jigeesha-yarra.github.io/match-game/)
 
 ## Project Structure
 
-
 src/
 ├── components/
 │   ├── App.js            # Main component rendering the game
