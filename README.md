@@ -42,6 +42,6 @@ src/
 5. Challenge yourself to complete the game in the shortest time possible!
 
 ## Technologies Used
-# React.js: For building the UI components and managing the game state.
-# CSS: For styling and animations.
-# React Hooks: To manage state and side effects efficiently.
+1. React.js: For building the UI components and managing the game state.
+2. CSS: For styling and animations.
+3. React Hooks: To manage state and side effects efficiently.
